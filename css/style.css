@@ -1,0 +1,19 @@
+* {
+    background-color: olivedrab;
+}
+h1 {
+    text-align: center;
+    text-decoration: underline;
+    color: whitesmoke;
+}
+h2 {
+    text-align: center;
+    color: white;
+}
+button {
+    border-top: -250px;
+    border-bottom: -200px;
+    border-color: aliceblue;
+    color: bisque;
+    text-rendering: geometricPrecision;
+}
